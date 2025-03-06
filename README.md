@@ -14,7 +14,13 @@ Then can ssh like in step 2.
 
 ### 3.Step: set-up jupyter server
 
-TODO
+If fresh VM:
+
+```
+bash jupyter_setup.sh
+```
+
+To open from local computer: https://localhost:8888/lab
 
 ### 4.Step: data processing
 
