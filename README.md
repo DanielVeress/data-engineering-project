@@ -35,14 +35,25 @@ You can access:
 - spark master: http://localhost:8080/
 - hadoop: http://localhost:9870
 
-### 4.Step: data processing
+### 4.Step: notebooks
 
-TODO
-
-### 5.Step: analyse scalabiltiy
-
-TODO
+simple_data_analysis.ipynb          - data analytics on our reddit dataset
+analyze_top_stocks.ipynb            - test vader and plot semantic analysis results
+scalability_tests_with_vader.ipynb  - scalability tests with vader model
+scalability_tests.ipynb             - (not used) scalability tests with a very simple semantic analysis 
 
 # Contributions
 
-TODO
+Dániel Veress: 
+- set-up jupyter server and configs
+- set-up scalability tests and plots
+- wrote scalability test part in presentation
+- wrote scalability test part in report
+
+Michel Messo: 
+
+Junming Ma: 
+
+Weiyun Huang: 
+
+Haben Hadush Gebreyowhans: 
