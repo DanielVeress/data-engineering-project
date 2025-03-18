@@ -1,4 +1,7 @@
 # automate the process of adding a new worker node / datanode to group 8 cluster #
+# disclaimer : make sure you have a node cloned from the worker nodes in openstack with the given IP
+#            : for new you need to do it from openstack horizen but for production cases you need to use openstack cli and 
+#            : to add workers dynamically
 
 if [ $# -ne 2 ]; then
     echo "Usage: $0 <worker_id> <worker_ip>"
