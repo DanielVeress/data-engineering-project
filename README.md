@@ -38,8 +38,11 @@ You can access:
 ### 4.Step: notebooks
 
 simple_data_analysis.ipynb          - data analytics on our reddit dataset
+
 analyze_top_stocks.ipynb            - test vader and plot semantic analysis results
+
 scalability_tests_with_vader.ipynb  - scalability tests with vader model
+
 scalability_tests.ipynb             - (not used) scalability tests with a very simple semantic analysis 
 
 # Contributions
