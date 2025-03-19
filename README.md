@@ -39,7 +39,7 @@ You can access:
 
 simple_data_analysis.ipynb          - data analytics on our reddit dataset
 
-analyze_top_stocks.ipynb            - test vader and plot semantic analysis results
+analyze_stocks.ipynb            - test vader and plot semantic analysis results
 
 scalability_tests_with_vader.ipynb  - scalability tests with vader model
 
@@ -58,5 +58,8 @@ Michel Messo:
 Junming Ma: 
 
 Weiyun Huang: 
+- conduct sentiment analysis with vader
+- wrote sentiment analysis part in presentation
+- wrote sentiment analysis part and part of background in report
 
 Haben Hadush Gebreyowhans: 
