@@ -56,6 +56,9 @@ Dániel Veress:
 Michel Messo: 
 
 Junming Ma: 
+- preliminary sentiment analysis 
+- wrote technology part in presentation
+- wrote preliminary analysis part in report
 
 Weiyun Huang: 
 - conduct sentiment analysis with vader
