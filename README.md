@@ -54,6 +54,10 @@ Dániel Veress:
 - wrote scalability test part in report
 
 Michel Messo: 
+- did preliminary exploration of the dataset
+- researched the area and found the VADER implementation
+- Wrote dataset part report
+- Wrote dataset part in presentation
 
 Junming Ma: 
 - preliminary sentiment analysis 
