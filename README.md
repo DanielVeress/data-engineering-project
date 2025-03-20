@@ -65,4 +65,7 @@ Weiyun Huang:
 - wrote sentiment analysis part in presentation
 - wrote sentiment analysis part and part of background in report
 
-Haben Hadush Gebreyowhans: 
+Haben Hadush Gebreyowhans:
+- designed the cluster architecture (all cluster related shell scripts)(the bash shell script push by daniel(who set up the git) were written by Haben)
+- wrote cluster architecture in the presentation
+- wrote cluster architectur and data analysis technology in the project report
